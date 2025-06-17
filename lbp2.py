@@ -490,3 +490,5 @@ if __name__ == "__main__":
             cbir.visualize_results("query_patch.jpg", results)
     else:
         print(f"Citra query {query_path} tidak ditemukan")
+
+        
